@@ -156,7 +156,7 @@ const Analyze = () => {
           style={{ marginLeft: "100px" }}
         />
         <img
-          src="https://github-readme-stats.vercel.app/api?username=qmint&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444"
+          src="https://github-readme-stats.vercel.app/api?username=Soumya2411&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444"
           height="165"
           style={{ marginLeft: "360px" }}
         />
